@@ -1,0 +1,389 @@
+KEY,SPEAKER,SENTENCE,SHOW,SARCASM,SENTIMENT_IMPLICIT,SENTIMENT_EXPLICIT,EMOTION_IMPLICIT,EMOTION_EXPLICIT
+2_530,PERSON,I've been talking to you for five minutes now about killing myself and no one's even looked up from their desk. Hang-hang on. Hey everybody!,FRIENDS,False,-1,-1,4,4
+2_530,PERSON,"Uh, I'm gonna kill myself!",FRIENDS,False,-1,-1,4,4
+,,,,,,,,
+2_531,RACHEL,"Yeah, I mean I was up sick all night.",FRIENDS,False,-1,-1,4,4
+2_531,JOEY,"Yeah me too, all night. Really?!",FRIENDS,False,-1,-1,4,4
+2_531,RACHEL,How come we didn't cross paths?,FRIENDS,False,1,1,5,5
+2_531,JOEY,"Yeah well that's because uh .. I stayed in my room. Yeah, you don't want to look in my hamper.",FRIENDS,False,-1,-1,4,4
+,,,,,,,,
+2_532,CHANDLER,"Rach rach, we gotta settle",FRIENDS,True,0,0,8,8
+2_532,RACHEL,Settle what?,FRIENDS,True,0,0,5,5
+2_532,CHANDLER,"The Jamestown colony of Virginia. You see King George is giving us the land, so.",FRIENDS,True,1,1,7,7
+,,,,,,,,
+2_534,ROSS,When did I say you were boring?!,FRIENDS,False,-1,-1,8,8
+2_534,PHOEBE,"Oh my God, I remember now! We were playing chess!",FRIENDS,False,1,1,2,2
+2_534,ROSS,Phoebe! You and I have,FRIENDS,False,-1,-1,8,8
+2_534,PHOEBE,"Oh, come on!",FRIENDS,False,1,1,2,2
+,,,,,,,,
+2_535,PERSON,spring vacation.,FRIENDS,False,1,1,7,7
+2_535,ROSS,spring vacation.,FRIENDS,False,1,1,7,7
+2_535,PERSON,Oh good.,FRIENDS,False,1,1,7,7
+2_535,ROSS,"Look, I ..   Look, I'm having a great time with you and I just don't want us to move to fast or put to much pressure on us.",FRIENDS,False,1,1,8,8
+2_535,ROSS,"So, I'm sorry I just don't think we should go away together yet.",FRIENDS,False,1,1,8,8
+,,,,,,,,
+2_536,ROSS,"I mean, you two are-are my… I mean, I'm lucky to have just one good",FRIENDS,False,-1,-1,4,4
+2_536,CHANDLER,Thanks man.,FRIENDS,False,-1,-1,4,4
+2_536,JOEY,I gotta go check something over here.,FRIENDS,False,-1,-1,4,4
+2_536,CHANDLER,What a baby.,FRIENDS,False,-1,-1,9,9
+,,,,,,,,
+2_537,PHOEBE,"Come on, no peeking!",FRIENDS,False,1,1,2,2
+2_537,CHANDLER,Our eyes are closed and we're about to cross the street. Very good.,FRIENDS,False,-1,1,8,8
+2_537,PHOEBE,"Okayyyyy, open up!",FRIENDS,False,1,1,2,2
+2_537,ROSS,What did you want to show us? Because all I can see is this bitchin van,FRIENDS,False,1,1,2,2
+,,,,,,,,
+2_54,RACHEL,Yes! And he said really mean things that were only partly true.,FRIENDS,True,-1,-1,4,4
+2_54,JOEY,I'm gonna go down there and teach that guy a lesson.,FRIENDS,True,-1,-1,1,1
+2_54,MONICA,"Joey, please don't do that. I think it's best that we just forget about it.",FRIENDS,True,-1,-1,4,4
+2_54,RACHEL,"That's easy for you to say, you weren't almost just killed.",FRIENDS,True,-1,-1,1,1
+,,,,,,,,
+2_540,JOEY,"I don't know. But hey, I know we can decide. Okay, I'm gonna ask you questions and you answer real quick.",FRIENDS,False,0,0,8,8
+2_540,JOEY,Okay?,FRIENDS,False,0,0,8,8
+,,,,,,,,
+2_541,MONICA,Go over to her. She's not with anyone.,FRIENDS,True,0,0,8,8
+2_541,CHANDLER,Oh yeah right. And what would my opening line be? Excuse me,FRIENDS,True,0,0,8,8
+,,,,,,,,
+2_542,JOEY,"Well, I'm just,if the paste matches the pants, you can make yourself a pair of paste pants and she won't know the difference!",FRIENDS,True,1,1,7,7
+2_542,RACHEL,"Joey, do you have a minute?",FRIENDS,True,1,1,7,7
+2_542,ROSS,"Dude, what am I gonna",FRIENDS,True,-1,-1,8,8
+2_542,JOEY,"Uh, Rachel's here, so good luck man, let me know how it works out.",FRIENDS,True,1,1,7,7
+,,,,,,,,
+2_546,MONICA,Hey,FRIENDS,True,1,1,7,7
+2_546,CHANDLER,"Hey, where's the birthday girl?",FRIENDS,True,1,1,7,7
+2_546,RACHEL,Oh she is still napping.,FRIENDS,True,1,1,7,7
+2_546,CHANDLER,"Oh sure, she was probably up all night excited about the party she knows is happening.",FRIENDS,True,1,1,7,7
+,,,,,,,,
+2_547,JOEY,"Well, what did you have?",FRIENDS,False,0,0,8,8
+2_547,CHANDLER,It doesn't matter because nothing beats a three and a six. That my friend is D-Cup.,FRIENDS,False,1,1,7,7
+2_547,CHANDLER,"Okay, now much have you won so far?",FRIENDS,False,0,0,8,8
+,,,,,,,,
+2_548,RACHEL,"All right, I'm outta here!",FRIENDS,True,-1,-1,3,3
+2_548,MONICA,I'm kidding! I'm kidding!,FRIENDS,True,-1,-1,8,8
+2_548,RACHEL,So were done then!,FRIENDS,True,-1,-1,3,7
+2_548,PERSON,"Almost! But first, we gotta start.",FRIENDS,True,1,1,7,7
+,,,,,,,,
+2_549,MONICA,Honey the Miami vice sound track?,FRIENDS,False,-1,0,8,8
+2_549,MONICA,Really?,FRIENDS,False,-1,0,8,8
+,,,,,,,,
+2_55,RACHEL,I'm really glad Monica asked us out.,FRIENDS,False,1,1,7,7
+2_55,PERSON,"I'd love to ask you in, but uh, my sister's visiting and I think she's asleep on the couch.",FRIENDS,False,1,1,7,7
+2_55,RACHEL,You're sister? You're sister's asleep on the couch? Ohhh! I saw,FRIENDS,False,1,1,7,7
+2_55,PERSON,"Oh hey, great, you're up. Rachel, this is my sister Krista. Krista, this is Rachel.",FRIENDS,False,1,1,7,7
+,,,,,,,,
+2_550,CHANDLER,"I will have one. Okay, I'm not gonna have one.",FRIENDS,True,0,0,8,8
+2_550,PHOEBE,"No, no, it's just my tooth.",FRIENDS,True,-1,-1,4,4
+2_550,CHANDLER,All right I'll have one.,FRIENDS,True,0,0,8,8
+,,,,,,,,
+2_552,RACHEL,I don't like sitting up here! I'm just gonna over,FRIENDS,False,-1,-1,1,1
+2_552,PHOEBE,No Rachel! They got here first! Why is Ross doing that?,FRIENDS,False,1,1,5,5
+2_552,ROSS,DANGER,FRIENDS,False,1,1,8,8
+,,,,,,,,
+2_553,MONICA,"Well Joey, we're all .. we're all very proud of you.",FRIENDS,False,1,1,7,7
+2_553,CHANDLER,"Yes, I believe we can expect a call from the President any moment now.",FRIENDS,False,-1,1,8,8
+2_553,PHOEBE,Is there anything we can do for you?,FRIENDS,False,0,0,8,8
+2_553,JOEY,"No just, nobody press on my stomach.",FRIENDS,False,-1,-1,4,4
+,,,,,,,,
+2_555,ROSS,No! You let go! How come it's always us left in the field holding the ball?,FRIENDS,False,-1,-1,8,8
+2_555,MONICA,I don't know. I guess the other people just don't care enough.,FRIENDS,False,-1,-1,4,4
+2_555,ROSS,Hey! It's starting to snow.,FRIENDS,False,1,1,7,7
+,,,,,,,,
+2_556,PERSON,"When their pets pass on, they want them sort of laid out like they are sleeping. But, occassionally theres a person who wants them in a pose like chasing their tail or uh, jumping to catch a frizbee.",FRIENDS,True,0,0,8,8
+2_556,CHANDLER,"Joey if I go first, I want to be looking for my keys",FRIENDS,True,0,0,8,8
+,,,,,,,,
+2_557,PERSON1,"Ross, can I talk to you for a minute?",FRIENDS,False,-1,-1,4,4
+2_557,ROSS,"Yes, please!  So, what's going on?",FRIENDS,False,1,1,7,7
+2_557,PERSON1,"Uh, well... Joey and I broke up.",FRIENDS,False,-1,-1,4,4
+2_557,ROSS,"Oh my God, wh-what happened?",FRIENDS,False,-1,-1,4,4
+,,,,,,,,
+2_558,MONICA,Oh wait! Stop! Stop! Stop!,FRIENDS,True,1,1,2,2
+2_558,CHANDLER,Oh I'm sorry! Do you need a break?,FRIENDS,True,-1,-1,1,1
+2_558,MONICA,My boots in tan! Hey! Can you get a little closer so I can see the price?,FRIENDS,True,1,1,2,2
+2_558,CHANDLER,I can see it from right here. It'll cost you one husband.,FRIENDS,True,-1,-1,1,1
+,,,,,,,,
+2_559,MONICA,"Well, you-you coulda just turned the cushion over.",FRIENDS,False,0,0,8,8
+2_559,PHOEBE,"Yeah, I would've except I had a big spaghetti stain on the other side.",FRIENDS,False,-1,-1,6,6
+2_559,MONICA,What?!?!,FRIENDS,False,-1,-1,5,5
+,,,,,,,,
+2_56,PERSON,"I knew it, wow!!",FRIENDS,False,1,1,7,7
+2_56,PHOEBE,"Wait-wait-wait, wait! Puppies. Cute or ugly?",FRIENDS,False,1,1,7,7
+2_56,PERSON,"Ohh, so cute.",FRIENDS,False,1,1,7,7
+2_56,PHOEBE,"Uh-huh, well! But umm, still I'm-I'm mad at you.",FRIENDS,False,-1,1,1,7
+,,,,,,,,
+2_560,PHOEBE,"And she was like ""Oh, don't worry! I asked him. He's totally ok with seeing you!"".",FRIENDS,True,-1,-1,6,6
+2_560,PHOEBE,So now I have to go so he'll think that I'm totally ok with seeing him!,FRIENDS,True,-1,-1,6,6
+,,,,,,,,
+2_562,JOEY,"Hey. What, what are you doing here?",FRIENDS,False,1,1,8,8
+2_562,PHOEBE,"Well, I-I thought a lot about what you said, and um, I realilized duh, all right maybe I was a little judgmental. Yeah, oh, but oh...",FRIENDS,False,-1,-1,4,4
+2_562,JOEY,"Look now, Phoebe remember, hey, their just fulfilling their Christmas....",FRIENDS,False,1,1,8,8
+,,,,,,,,
+2_564,CHANDLER,"Yes. Yes, thanks for letting me use your phone... and for saving my life.",FRIENDS,False,1,1,7,7
+2_564,PERSON,"Well, goodbye Chandler. I had a great blackout.  See ya.",FRIENDS,False,1,1,7,7
+2_564,CHANDLER,"Hi, um, I'm account number 7143457.",FRIENDS,False,1,1,7,7
+2_564,CHANDLER,"And, uh, I don't know if you got any of that, but I would really like a copy of the tape.",FRIENDS,False,1,1,7,7
+,,,,,,,,
+2_567,ROSS,"So uh, does it do anything uh special?",FRIENDS,True,1,1,7,7
+2_567,CHANDLER,"Well yes Ross, pressing my third nipple opens the delivery entrance to the magical land of Narnia.",FRIENDS,True,-1,1,6,7
+,,,,,,,,
+2_569,PHOEBE,"Yeah! Now, why do you want to kill yourself?",FRIENDS,False,-1,-1,4,4
+2_569,PERSON,"It's just that I uh, have been working for ten years now at this meaningless, dead-end job and nobody here even knows I exist!",FRIENDS,False,-1,-1,4,4
+2_569,PHOEBE,Chandler?,FRIENDS,False,0,0,8,8
+,,,,,,,,
+2_570,CHANDLER,Hey Ross I was wondering.,FRIENDS,False,0,0,8,8
+2_570,CHANDLER,"Oh my god, where are all the men?",FRIENDS,False,-1,-1,9,9
+,,,,,,,,
+2_572,PHOEBE,"I know, they're gonna be",FRIENDS,False,1,1,7,7
+2_572,RACHEL,"Ohh ..   I mean two best friends falling in love, how often does that happen?",FRIENDS,False,1,1,7,7
+2_572,PHOEBE,Not,FRIENDS,False,1,1,7,7
+2_572,RACHEL,No! I'm so happy for them!,FRIENDS,False,1,1,7,7
+,,,,,,,,
+2_573,ROSS,"Look I drew a sketch of how we are gonna do it ok? Rach, that's you, that's the couch",FRIENDS,True,1,1,8,8
+2_573,RACHEL,What's that?,FRIENDS,True,1,1,5,5
+2_573,ROSS,"Oh, that's me.",FRIENDS,True,0,0,8,8
+2_573,RACHEL,Wow! Certainly think a lot of yourself.,FRIENDS,True,-1,1,8,8
+2_573,ROSS,"No, that's my arm.",FRIENDS,True,1,1,8,8
+2_573,CHANDLER,"Oh I see, I thought you just really really liked your new couch.",FRIENDS,True,-1,1,8,8
+,,,,,,,,
+2_574,CHANDLER,Pickin up wedding dresses. Wapah.,FRIENDS,False,1,1,7,7
+2_574,ROSS,Whats wapah,FRIENDS,False,0,0,5,5
+2_574,CHANDLER,"You now, whipped. Wapah",FRIENDS,False,1,1,7,7
+2_574,JOEY,That's not whipped,FRIENDS,False,1,1,7,7
+2_574,CHANDLER,"That's what I did, wapah.",FRIENDS,False,1,1,7,7
+2_574,JOEY,You can't do anything.,FRIENDS,False,-1,-1,2,2
+,,,,,,,,
+2_575,JOEY,Wow! This girl is good.,FRIENDS,True,1,1,7,7
+2_575,PHOEBE,"Oh-ho yeah! A song with rhyming words. Oo, I never thought of that before.",FRIENDS,True,-1,1,1,7
+2_575,CHANDLER,I like her.,FRIENDS,True,1,1,7,7
+2_575,PHOEBE,Why? Because she can sing and play guitar and do both at the same time?,FRIENDS,True,-1,1,1,7
+,,,,,,,,
+2_576,RACHEL,"Oh Monica, we are so sorry.",FRIENDS,False,-1,-1,4,4
+2_576,MONICA,For what?,FRIENDS,False,0,0,5,5
+2_576,RACHEL,"Well first, for forgetting to throw you a bridal shower.",FRIENDS,False,-1,-1,4,4
+2_576,PHOEBE,And then for forgetting to invite you to it.,FRIENDS,False,-1,-1,4,4
+,,,,,,,,
+2_577,RACHEL,It's one more thing in my life that's suddenly completely different. This is hard.,FRIENDS,False,-1,-1,4,4
+2_577,ROSS,Yeah I know.,FRIENDS,False,-1,-1,4,4
+2_577,ROSS,"On the other hand in um, in about seven months you're gonna have something that you're gonna love more than any guy you've ever gone out with.",FRIENDS,False,1,1,8,8
+,,,,,,,,
+2_579,ROSS,"One, two, three, four! You know the song! Sing along! So?",FRIENDS,False,1,1,2,2
+2_579,MONICA,No!,FRIENDS,False,-1,-1,9,9
+,,,,,,,,
+2_58,PERSON,Welcome back!,FRIENDS,False,1,1,7,7
+2_58,PHOEBE,Hey!  Can we pick up where we left off?,FRIENDS,False,1,1,7,7
+2_58,PERSON,"I don't know, I'm still pretty tired out from this afternoon.",FRIENDS,False,1,1,7,7
+2_58,PHOEBE,Why?,FRIENDS,False,1,1,7,7
+,,,,,,,,
+2_581,JOEY,"Quack quack, quack quack, quack quack.",FRIENDS,True,0,0,8,8
+2_581,CHANDLER,"We were wondering what was taking so long with the gift, but now we understand you were doing this.",FRIENDS,True,0,0,8,8
+,,,,,,,,
+2_406,RACHEL,"Hi. Look um, about what happened earlier...",FRIENDS,True,-1,-1,4,4
+2_406,ROSS,"No, hey, well, I-I completely understand. You were, you were stressed.",FRIENDS,True,-1,-1,4,4
+2_406,RACHEL,I was gonna give you a chance to apologise to me.,FRIENDS,True,-1,-1,4,4
+2_406,ROSS,For what? For letting you throw me out of your office?,FRIENDS,True,-1,-1,1,1
+,,,,,,,,
+2_407,RACHEL,"Well, Joshua's coming in tomorrow and since I don't have the guts to ask him out, I'm going to sell him a coat and put this note in the pocket.",FRIENDS,False,1,1,7,7
+2_407,CHANDLER,"Oh yeah? Joshua, give me a call sometime, guys like you never go out of style.",FRIENDS,False,1,1,7,7
+2_407,JOEY,Hey!,FRIENDS,False,1,1,7,7
+,,,,,,,,
+2_408,CHANDLER,Saucy.,FRIENDS,True,1,1,7,7
+2_408,PERSON,I'll be back in two minutes.,FRIENDS,True,-1,-1,8,8
+2_408,CHANDLER,You are going to leave me like this,FRIENDS,True,-1,-1,5,5
+2_408,PERSON,"Knowing you are here, waiting for me, it is kind of exciting isn't it?",FRIENDS,True,1,1,7,7
+2_408,CHANDLER,"Okay, but if you are not coming back soon, there is pretty much nothing I can do about it",FRIENDS,True,-1,1,1,7
+,,,,,,,,
+2_409,CHANDLER,"Hi, excuse me, is Rachel Green here? I'm supposed to meet her for lunch.",FRIENDS,False,1,1,8,8
+2_409,PERSON,Oh she doesn't come here anymore. You can find her up on 10th.,FRIENDS,False,-1,-1,8,8
+2_409,CHANDLER,Okay great.,FRIENDS,False,1,1,7,7
+2_409,CHANDLER,I'll catch you guys later.,FRIENDS,False,1,1,7,7
+,,,,,,,,
+2_410,PERSON,That's funny. Who are they?,FRIENDS,True,1,1,7,7
+2_410,ROSS,"The blond woman is my ex-wife, and the woman touching her is her... close, personal friend.",FRIENDS,True,-1,-1,"4,3","4,3"
+2_410,PERSON,You mean they're lovers.,FRIENDS,True,1,1,7,7
+2_410,ROSS,If you wanna put a label on it.,FRIENDS,True,-1,1,4,7
+,,,,,,,,
+2_413,CHANDLER,"Oh, that's uh, that's pretty nice but I'm gonna go with the one I picked first.",FRIENDS,False,-1,1,8,7
+2_413,PHOEBE,"Oh my God Chandler, the one you picked is gone. It's over!",FRIENDS,False,-1,-1,4,4
+2_413,CHANDLER,What?,FRIENDS,False,1,1,5,5
+2_413,PHOEBE,Some guy bought it. I'm sorry. I tired to stop it but they put me in jail!,FRIENDS,False,-1,-1,4,4
+,,,,,,,,
+2_415,PERSON,Can I help you?,FRIENDS,False,0,0,8,8
+2_415,CHANDLER,Uh-oh.,FRIENDS,False,-1,-1,4,4
+2_415,JOEY,"Uh, y'know what, we're having second thoughts about our copying needs. And we'll need a little more time to think about it.",FRIENDS,False,-1,1,4,7
+2_415,PERSON,"Chloe, switch with me, there's some guys here that got a crush on you.",FRIENDS,False,0,0,8,8
+,,,,,,,,
+2_416,ROSS,Ok it was just me and her at the back of the train and I sat at the door so she had to pass by me if she like to switch cars. She was totally at my mercy.,FRIENDS,True,1,1,7,7
+2_416,CHANDLER,Were you so late because you were burying this woman?,FRIENDS,True,1,1,8,8
+,,,,,,,,
+2_419,JOEY,"Look, Pheebs, I just, I wanna apologize for, for saying that your method was stupid and-and maybe ask you to be my teacher again. And-and I promise, I won't touch a guitar until you say I'm ready. You really think I'm ready?",FRIENDS,False,1,1,4,4
+2_419,PHOEBE,Uh-huh!,FRIENDS,False,1,1,7,7
+,,,,,,,,
+2_42,PERSON2,"Dr. Farber, we've got a bit of an emergency here...Jason Costalano is choking on his retainer.",FRIENDS,False,0,0,8,8
+2_42,PERSON1,"Oh God... I'll be right there, Bernice.",FRIENDS,False,-1,-1,4,4
+2_42,PERSON1,"Look, please, please don't go anywhere, okay?",FRIENDS,False,-1,-1,4,4
+,,,,,,,,
+2_420,CHANDLER,"Okay you are right, I am in love with Joey's girlfriend.",FRIENDS,True,-1,-1,4,4
+2_420,PHOEBE,What? How is that possible? You barely know her.,FRIENDS,True,1,1,5,5
+2_420,CHANDLER,"I don't know. I can't . I just, I can't get her out of my head you know. I am a very bad person. I am a horrible person.",FRIENDS,True,-1,-1,4,4
+2_420,CHANDLER,"No you are not Chandler, we still love you Chandler",FRIENDS,True,-1,-1,"4,1","4,1"
+,,,,,,,,
+2_421,JOEY,"Thank you, but it would take me forever to pay  you that money back and I don't want that hanging on my head. Besides, soon as my insurance kicks in I' ll all the free operations I want. T'll probably start with that laser eye surgery.",FRIENDS,True,-1,-1,4,4
+2_421,CHANDLER,Joey's got a really bad hernia but its nothing that a laser eye surgery wont fix,FRIENDS,True,0,0,8,8
+,,,,,,,,
+2_422,PERSON,"We've got uh, scarves, tulip post cards...",FRIENDS,False,0,0,8,8
+2_422,JOEY,Check this out? Huh?  Yeah. That's the stuff. What do you think?,FRIENDS,False,1,1,7,7
+2_422,CHANDLER,"Well, I don't have to buy that, ""I'm with stupid"" T-shirt anymore.",FRIENDS,False,1,1,7,7
+2_422,JOEY,"Well, I like it. Here you go.",FRIENDS,False,1,1,7,7
+,,,,,,,,
+2_423,MONICA,Richard!,FRIENDS,True,1,1,7,7
+2_423,PERSON,"Actually, I'm not here to complement the chef.",FRIENDS,True,-1,-1,4,4
+2_423,MONICA,"Ohh ..  Oh, that's okay I hate when people come back to complement the chef.",FRIENDS,True,-1,-1,4,4
+2_423,MONICA,Like I have nothing better to do!,FRIENDS,True,-1,-1,1,1
+,,,,,,,,
+2_425,PHOEBE,"We couldn't keep our eyes off each other all night and then every once and a while y'know, he'd kinda lean over and stroke my hair and touch my neck.",FRIENDS,False,1,1,7,7
+2_425,MONICA,"Okay, stop it Phoebe, you're getting me all tingly.",FRIENDS,False,1,1,7,7
+2_425,PHOEBE,"All I could think of was y'know, ""Is he gonna kiss me? Is he gonna kiss me?""",FRIENDS,False,1,1,7,7
+2_425,MONICA,And did he?,FRIENDS,False,1,1,7,7
+,,,,,,,,
+2_426,PERSON,HEY!! Do you Oh come on! Morning's here!  Morning's here! The morning is here! Sunshine is here! I,FRIENDS,False,1,1,7,7
+2_426,JOEY,"Are you kidding? I love that guy!  Morning's here! Morning is here,",FRIENDS,False,1,1,7,7
+,,,,,,,,
+2_427,RACHEL,Oh!,FRIENDS,False,1,1,"2,7","2,7"
+2_427,MONICA,Oh God,FRIENDS,False,1,1,7,7
+2_427,PHOEBE,Now you know how you really feel about it.,FRIENDS,False,1,1,7,7
+2_427,RACHEL,"Oh-oh, that's a risky little game!",FRIENDS,False,1,1,7,7
+,,,,,,,,
+2_428,ROSS,"According to Chandler, what phenomenon scares the bejesus out of him?",FRIENDS,False,0,0,8,8
+2_428,MONICA,Michael flatly lord of the dance,FRIENDS,False,1,1,7,7
+2_428,ROSS,That is correct!,FRIENDS,False,1,1,7,7
+2_428,JOEY,The Irish gig guy?,FRIENDS,False,1,1,5,5
+2_428,CHANDLER,His legs flail about as if independent from his body,FRIENDS,False,-1,-1,8,8
+,,,,,,,,
+2_429,PHOEBE,"Ha-ha, it's not my baby, ha-ha-ha!",FRIENDS,True,-1,-1,6,6
+2_429,MONICA,"Very good,  so good.",FRIENDS,True,-1,1,6,7
+2_429,PHOEBE,"I really, really enjoyed it. Very exotic.",FRIENDS,True,-1,1,6,7
+,,,,,,,,
+2_43,JOEY,"Well, you're amazing.",FRIENDS,True,1,1,2,2
+2_43,CHANDLER,Oh no-no-no.,FRIENDS,True,1,1,2,2
+2_43,JOEY,"A TV as if it appears from nowhere! That's the dream! Man, how did you afford this stuff?",FRIENDS,True,1,1,2,2
+2_43,CHANDLER,"Well, y'know I'm 29. I mean who needs a savings account.",FRIENDS,True,1,1,2,2
+,,,,,,,,
+2_430,CHANDLER,Listen it's kind of an emergency,FRIENDS,True,0,0,8,8
+2_430,CHANDLER,I guess you would know that or else we would be in a predicament room,FRIENDS,True,1,1,7,7
+,,,,,,,,
+2_431,JOEY,"But I can see through your sheet. Yeah, yeah, that's her. But y'know what? Doesn't matter,",FRIENDS,False,0,0,8,8
+2_431,JOEY,I'm never gonna get to meet her anyway.,FRIENDS,False,-1,-1,4,4
+,,,,,,,,
+2_433,CHANDLER,Well cathy's last boyfriend was Joey.,FRIENDS,True,-1,-1,8,8
+2_433,ROSS,And you're afraid you wont be able to fill his shoes,FRIENDS,True,1,1,7,7
+2_433,CHANDLER,I was saying the actual words,FRIENDS,True,-1,-1,6,6
+,,,,,,,,
+2_434,RACHEL,You guys can pee standing up.,FRIENDS,True,-1,-1,6,6
+2_434,CHANDLER,We can? Ok I am trying that.,FRIENDS,True,1,1,5,5
+,,,,,,,,
+2_435,PERSON,It's Jake.,FRIENDS,False,1,1,7,7
+2_435,JOEY,"Joey. Hey Jake, do you like the Knicks?",FRIENDS,False,1,1,7,7
+2_435,PERSON,"Yeah, big fan.",FRIENDS,False,1,1,7,7
+2_435,JOEY,"Me too! There's a game on Tuesday, do you wanna go?",FRIENDS,False,1,1,7,7
+,,,,,,,,
+2_437,JOEY,"Oh, y'know the same thing happened to me one time.",FRIENDS,False,1,1,8,8
+2_437,CHANDLER,When did that happen to you?!,FRIENDS,False,0,0,8,8
+2_437,JOEY,"Don't you remember when we were jogging in the park and we saw that really pretty bird and wanted to take a picture,I didn't have my camera!",FRIENDS,False,1,1,8,8
+2_437,CHANDLER,"Oh yeah. First off all, chasing the Churo guy isn't jogging.",FRIENDS,False,-1,-1,8,8
+,,,,,,,,
+2_438,MONICA,"Chandler, I think I am sick",FRIENDS,True,-1,-1,4,4
+2_438,CHANDLER,Really? Struck down in the prime of life.,FRIENDS,True,1,1,7,7
+,,,,,,,,
+2_439,ROSS,Y'know what I think it is? I think you've made such a nice home for her over the last nine months that she just doesn't want to leave.,FRIENDS,False,1,1,8,8
+2_439,RACHEL,Oh. Look at you making up crap for me. Oh God!,FRIENDS,False,1,1,7,7
+2_439,PERSON,"Twenty-one hours, you're a hero.",FRIENDS,False,1,1,7,7
+,,,,,,,,
+2_44,JOEY,"Very life-like and funny. Okay. Oh no-no-no, I wasn't waving at you lady.",FRIENDS,False,1,1,7,7
+2_44,JOEY,"Whoa, maybe I was!",FRIENDS,False,1,1,7,7
+,,,,,,,,
+2_440,MONICA,You are dead meat,FRIENDS,True,-1,-1,1,1
+2_440,CHANDLER,I didn't know it was a big secret.,FRIENDS,True,-1,-1,4,4
+2_440,MONICA,"No its not big, not at all. Kind of the same lines as, I don't know, having a third nipple!",FRIENDS,True,-1,-1,1,1
+,,,,,,,,
+2_441,ROSS,Oh.,FRIENDS,False,-1,-1,4,4
+2_441,PHOEBE,"Please, right now, no, every time I see him it's like  'Is it on the lose?'  'Is it watching me?'",FRIENDS,False,-1,-1,1,1
+2_441,CHANDLER,"We can't tell him, you can't go up to a guy you barely know and talk about his.... stuff.",FRIENDS,False,-1,-1,4,4
+2_441,ROSS,"He's right, even if it's to say something complementary.",FRIENDS,False,-1,-1,4,4
+,,,,,,,,
+2_442,DOROTHY,She is miserable.,GOLDENGIRLS,True,0,0,8,8
+2_442,ROSE,"Just to keep me upto speed Dorothy, it is this negligent arson that prospect of spending the rest of her wiening years in jail thing right?",GOLDENGIRLS,True,0,0,8,8
+2_442,DOROTHY,No itÕs the rose in the kitchen thing.,GOLDENGIRLS,True,-1,-1,4,4
+,,,,,,,,
+2_443,MONICA,Why wouldn't I be married when I am forty?,FRIENDS,True,-1,-1,1,1
+2_443,CHANDLER,"Oh no no no, I just meant hypothetically",FRIENDS,True,1,1,7,7
+2_443,MONICA,"Ok , hypothetically, why won't I be married when I am forty?",FRIENDS,True,-1,-1,1,1
+2_443,CHANDLER,No,FRIENDS,True,1,1,7,7
+2_443,MONICA,"No, what is it? Is there something fundamentally unmarriable about me?",FRIENDS,True,-1,-1,1,1
+2_443,CHANDLER,"Dear god, this parachute is a knapsack",FRIENDS,True,-1,-1,8,8
+,,,,,,,,
+2_444,RACHEL,I would love to live with you Ross.. that's-that's great! Thank you!,FRIENDS,False,1,1,7,7
+2_444,ROSS,"Well, I'm-I'm just glad I could, y'know, help you out.",FRIENDS,False,1,1,7,7
+2_444,RACHEL,"Ross-Ross, you have no idea what this means to me!",FRIENDS,False,1,1,7,7
+,,,,,,,,
+2_445,PHOEBE,"Okay, here's what we're gonna do. Okay, I'm gonna break into this mini-van and put it in neutral. You guys push it forward so Ross can drive out of his spot.",FRIENDS,False,0,0,8,8
+2_445,PHOEBE,Okay?,FRIENDS,False,0,0,8,8
+,,,,,,,,
+2_446,PERSON,Hi Joey.,FRIENDS,False,1,1,7,7
+2_446,JOEY,Hey! How you doin'?,FRIENDS,False,1,1,7,7
+2_446,PERSON,He has the most amazing Porsche under there!,FRIENDS,False,1,1,7,7
+2_446,JOEY,"I'd love to show ya, but I just tucked her in.",FRIENDS,False,1,1,7,7
+,,,,,,,,
+2_447,CHANDLER,Still upset because I saw her boobies.,FRIENDS,True,-1,-1,8,8
+2_447,ROSS,Well what? What were you doing seeing her boobies?,FRIENDS,True,0,0,8,8
+2_447,CHANDLER,It was an accident. Not like I was across the street with a telescope and a box of donuts.,FRIENDS,True,-1,-1,4,4
+,,,,,,,,
+2_448,JOEY,Yeah! You gotta tell a girl before you tape her. Such a rookie mistake.,FRIENDS,False,-1,-1,4,4
+2_448,CHANDLER,Y'know who has a great video camera?,FRIENDS,False,0,0,8,8
+2_448,PHOEBE,Greg and Jenny?,FRIENDS,False,0,0,8,8
+2_448,MONICA,Do you still wanna call  'em? I wanna call  'em.,FRIENDS,False,1,1,7,7
+,,,,,,,,
+2_449,RACHEL,Oh Oh car car.,FRIENDS,True,1,1,7,7
+2_449,PHOEBE,Its Ross on one of his drives,FRIENDS,True,-1,-1,4,4
+2_449,RACHEL,What is he doing here?,FRIENDS,True,1,1,5,5
+2_449,ROSS,"He is saving your butt. Unless ofcourse I am stepping on some toes here, in which case I can just mosey on. I have plenty of people to help in the interstate.",FRIENDS,True,0,0,8,8
+2_449,CHANDLER,"Oh no, now its not gonna make any sense",FRIENDS,True,-1,-1,4,4
+,,,,,,,,
+2_45,DOROTHY,Oh fine we will!,GOLDENGIRLS,True,-1,-1,1,1
+2_45,SOPHIA,Is that Paolo?,GOLDENGIRLS,True,0,0,8,8
+2_45,DOROTHY,"Oh ma no, it was a little girl selling girl scout toilets.",GOLDENGIRLS,True,0,0,8,8
+,,,,,,,,
+2_450,JOEY,"Remember what happened the last time I did an interview for them? I said I write a lot of my own lines, then the writers got mad and made my character fall down the elevator shaft. So who knows what I might say this time.",FRIENDS,True,-1,-1,4,4
+2_450,CHANDLER,If only there was something in your head to control the things you say.,FRIENDS,True,-1,-1,4,4
+,,,,,,,,
+2_454,PERSON,It was dreadful. I felt terrible about how I acted when you said those wonderful things.,FRIENDS,False,-1,-1,4,4
+2_454,ROSS,"No, no, that-that, that's all right. Umm, I'm just glad you called.",FRIENDS,False,-1,1,4,7
+2_454,PERSON,"Ross umm, there's something that I've got to tell you, there's-there's someone else.",FRIENDS,False,-1,-1,4,4
+,,,,,,,,
+2_456,ROSS,This would be the place where you explain the hat,FRIENDS,True,-1,-1,1,1
+2_456,JOEY,"Oh, Okay. This is called the top hat?",FRIENDS,True,0,0,8,8
+2_456,ROSS,And why are you wearing this? Is it top hat?,FRIENDS,True,-1,-1,1,1
+2_456,JOEY,"Oh , yeah. There's this play right. And I am up for the part of this real cool like suave, international guy. A real close horse. So I figured everyone in the audition is gonna be wearing this kind of, you now, ultra hip, high fashion stuff.",FRIENDS,True,0,0,8,8
+2_456,CHANDLER,And you are gonna make them all disappear.,FRIENDS,True,-1,-1,5,5
+,,,,,,,,
+2_457,MONICA,I just don't wanna give them any more ammunition than they already have.,FRIENDS,True,-1,-1,6,6
+2_457,CHANDLER,"Yes, we all know how cruel a parent can be, about the flatness of a child's pillow.",FRIENDS,True,1,1,7,7
+,,,,,,,,
+2_458,JOEY,"Yeah! And also, a little like a French guy. I never noticed that before.",FRIENDS,False,0,0,8,8
+2_458,MONICA,What are you up too?,FRIENDS,False,1,1,2,2
+,,,,,,,,
+2_461,PERSON,[Laughs],FRIENDS,True,1,1,7,7
+2_461,CHANDLER,"Wow you look just like your son, Mrs. Tribbiani",FRIENDS,True,1,1,5,5
+,,,,,,,,
+2_462,DOROTHY,Oh I am so nervous. Have you ever given an eulogy?,GOLDENGIRLS,True,-1,-1,4,4
+2_462,ROSE,You mean at a funeral?,GOLDENGIRLS,True,0,0,8,8
+2_462,DOROTHY,"No Rose, at a pie eating contest.",GOLDENGIRLS,True,-1,-1,6,6
+,,,,,,,,
+2_463,RACHEL,You know? Forget it!,FRIENDS,False,-1,-1,6,6
+2_463,JOEY,"No-no-no-no, no! Who, who were you talking about?",FRIENDS,False,0,0,8,8
+2_463,RACHEL,"No, I-I-I-I don't, I actually don't know",FRIENDS,False,-1,-1,6,6
+2_463,JOEY,Ok!,FRIENDS,False,0,0,8,8
+,,,,,,,,
+2_464,PERSON,"Hey, you guys the water is great. You should really go in!",FRIENDS,True,1,1,7,7
+2_464,CHANDLER,"Oh, uh, no thanks. I just had an M&M.",FRIENDS,True,1,1,7,7
+,,,,,,,,
+2_465,ROSE,No more ice-skating,GOLDENGIRLS,True,-1,-1,1,1
+2_465,ROSE,And I am not gonna go Niagra falls in a barrel.,GOLDENGIRLS,True,-1,-1,1,1
+2_465,DOROTHY,"No Rose, that you should do.",GOLDENGIRLS,True,0,0,8,8
