@@ -25,20 +25,20 @@ import torch.nn as nn
 # class ComplexMultiplier(nn.Module):
 #     def __init__(self, input_size):
 #         super(ComplexMultiplier, self).__init__()
-#         self.r = nn.Parameter(torch.Tensor(input_size))  # 可训练参数 r
-#         self.t = nn.Parameter(torch.Tensor(input_size))  # 可训练参数 t
+#         self.r = nn.Parameter(torch.Tensor(input_size))  
+#         self.t = nn.Parameter(torch.Tensor(input_size)) 
 
 #         # 初始化参数 r 和 t
 #         self.reset_parameters()
 
 #     def reset_parameters(self):
-#         nn.init.uniform_(self.r)  # 使用均匀分布初始化 r
-#         nn.init.uniform_(self.t)  # 使用均匀分布初始化 t
+#         nn.init.uniform_(self.r) 
+#         nn.init.uniform_(self.t)  
 
 #     def forward(self, input):
 #         real = torch.cos(self.t) * self.r
 #         imag = torch.sin(self.t) * self.r
-#         complex_weights = torch.complex(real, imag)  # 构造复数权重
+#         complex_weights = torch.complex(real, imag) 
 
 #         return torch.mul(input, complex_weights)
 
@@ -354,10 +354,9 @@ class HyperModel(Module):
         sentOutput = self.directSent(sentOutput)
         
 
-        #topk的作用：取出每一行最大的值，返回值为两个，第一个为最大值，第二个为最大值的索引
-        #topk的参数：第一个为要取出的最大值的个数，第二个为取出的维度
+
         sentTop1 = torch.topk(sentOutput, 1)[1]
-        #repeat：将sentTop1中的每个元素重复128次
+  
         sentTop1 = sentTop1.repeat(1, 128)
         sentTop1 = torch.unsqueeze(sentTop1, 1)
         sentTop1 = torch.transpose(sentTop1, dim0=0, dim1=1)
@@ -593,10 +592,9 @@ class HyperModel(Module):
         sentOutput = self.directSent(sentOutput)
         
 
-        #topk的作用：取出每一行最大的值，返回值为两个，第一个为最大值，第二个为最大值的索引
-        #topk的参数：第一个为要取出的最大值的个数，第二个为取出的维度
+
         sentTop1 = torch.topk(sentOutput, 1)[1]
-        #repeat：将sentTop1中的每个元素重复128次
+
         sentTop1 = sentTop1.repeat(1, 128)
         sentTop1 = torch.unsqueeze(sentTop1, 1)
         sentTop1 = torch.transpose(sentTop1, dim0=0, dim1=1)
