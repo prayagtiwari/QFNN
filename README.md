@@ -11,4 +11,6 @@ qModule.py: Quantum Composition of QFNN
 How to run:
 1. Run hyper_mt.py to pre-train the Multimodal fusion part of QFNN. 
 2. Run qModule.py to train the whole QFNN.
+3. Run expressibility.ipynb for expressibility of parametrized quantum circuits
+4. Run entanglement.ipynb for entanglement capability of quantum circuits
 
